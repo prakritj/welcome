@@ -1,6 +1,6 @@
 ## Introduction
 
-Hello! I'm Prakrit Jayakumar, a first year BSc Economics student at the London School of Economics. You have arrived at my Github page, which means you have expressed some interest in me! I'm an international student from Singapore and chose to study Economics because of a passion in Developmental Economics (the 'lottery' of success) and the complex nature of global financial markets.
+Hello! I'm Prakrit Jayakumar, a first year BSc Economics student at the London School of Economics. You have arrived at my Github page, which means you have expressed some interest in me! I'm an international student from Singapore and chose to study Economics because of a passion in Developmental Economics (the 'lottery' of success) and the complex nature of global financial markets. If you'd like to learn more about me, [follow me on Twitter](https://twitter.com/prakritjay).
 
 One of my primary goals during my time at the LSE is to learn how to develop visualisations to comprehend the vast amount of data available on the interweb and apply that to my passion for a more founded understanding of concepts and theories by accompannying it with an analysis of real-world examples which are current and evolving.
 
