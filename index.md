@@ -1,6 +1,5 @@
 ## Welcome to GitHub Pages
 
-```markdown
 ## Introduction
 
 Hello! I'm Prakrit Jayakumar, a first year BSc Economics student at the London School of Economics. You have arrived at my Github page, which means you have expressed some interest in me! I'm an international student from Singapore and chose to study Economics because of a passion in Developmental Economics (the 'lottery' of success) and the complex nature of global financial markets.
