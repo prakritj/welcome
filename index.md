@@ -28,7 +28,7 @@ Of course, data from Reddit has little meaning without context of the equity mar
 
 The final product for this project would be a bubble map. The bubble map would display the stocks listed by Reddit, with circles indicating 'BUY' decisions and squares indicating 'SELL' decisions. Each bubble would be coloured by category; for example, blue for the tech industry, and green for the F&B industry, categorised using data from reputable financial data providers. When hovering over each bubble, one would be able to see details of the stock, including the market cap and performance over time.
 
-One way to achieve this is using a data visualisation tool called D3, which uses Javascript to display bubble charts. A great example of this tool is [this analysis of how the Gates Foundation allocated education spending](http://vallandingham.me/bubble_chart/).
+One way to achieve this is by implementing a data visualisation tool called D3, which allows us to use Javascript to display bubble charts. A great example of an application of this tool in data science is [this analysis of how the Gates Foundation allocated education spending](http://vallandingham.me/bubble_chart/).
 
 Due to the difficulty in displaying too much information, unpopular investing suggestions/decisions (to be quantified after data is sourced) would be left out of the bubble map, but those wishing to access it will be able to see the data directly. 
 
