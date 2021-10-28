@@ -4,7 +4,7 @@ Hello! I'm Prakrit Jayakumar, a first year BSc Economics student at the London S
 
 One of my primary goals during my time at the LSE is to learn how to develop visualisations to comprehend the vast amount of data available on the interweb and apply that to my passion for a more founded understanding of concepts and theories by accompannying it with an analysis of real-world examples which are current and evolving.
 
-|I served my National Service in the military for 2 years from 2019-2021)|
+|I served my National Service in the military for 2 years from 2019-2021|
 |:--:|
 |![Image](https://nextcloud.prakritj.com/apps/files_sharing/publicpreview/6x4rHATWZynqCTp?x=3828&y=1508&a=true&file=3f154a6d-9bfb-462c-98fa-f1a6920cf381.png&scalingup=0.png)| 
 
