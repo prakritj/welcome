@@ -1,6 +1,17 @@
 ## Welcome to GitHub Pages
 
-Hello 123 I'm Prakrit Jayakumar You can use the [editor on GitHub](https://github.com/prakritj/welcome/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+```markdown
+## Introduction
+
+Hello! I'm Prakrit Jayakumar, a first year BSc Economics student at the London School of Economics. You have arrived at my Github page, which means you have expressed some interest in me! I'm an international student from Singapore and chose to study Economics because of a passion in Developmental Economics (the 'lottery' of success) and the complex nature of global financial markets.
+
+One of my primary goals during my time at the LSE is to learn how to develop visualisations to comprehend the vast amount of data available on the interweb and apply that to my passion for a more founded understanding of concepts and theories by accompannying it with an analysis of real-world examples which are current and evolving.
+
+![Image](https://nextcloud.prakritj.com/apps/files_sharing/publicpreview/6x4rHATWZynqCTp?x=3828&y=1508&a=true&file=3f154a6d-9bfb-462c-98fa-f1a6920cf381.png&scalingup=0.png) 
+
+## Current Project
+
+At the moment, I'm interested in the impact that social media has on global financial markets. Over the past year, reduced consumption spending along with additional government handouts (all due to COVID-19) has meant that workers who kept their jobs had an increased capacity for savings. Much of the recent savings that have flooded the equity market has come from an increase in _active_ retail investing as opposed to _passive_ investing. That is, instead of retail investors pumping more money into stable and renowned indices such as the S&P500, mutual funds, or life insurance which couples as an investment vehicle, retail investors in the equity market  have instead opted to decide for themselves which stocks to invest in. This rise in active retail investing has also been accompanied by a similar rise in social media communities regarding these investment decisions. Most prominent is the Reddit community [r/wallstreetbets](https://reddit.com/r/wallstreetbets). 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
